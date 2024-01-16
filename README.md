@@ -1,4 +1,4 @@
-# K-NET-LSTM-PGA [Title Redacted to Forestall erroneous Plagiarism Detection by Crawlers]
+# K-NET-LSTM-PGA (Full title ommitted to forestall erroneous plagiarism Detection by crawlers]
 Code for Seismological Research Letters Submission SRL-D-23-00427
 
 ## Data
