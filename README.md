@@ -8,8 +8,11 @@ Data is sourced from the Japan National Research Institute for Earth Science and
 
 
 ## Instructions
-### Preprocessing
-The script used to preprocess seismograms is titled `preprocess.py`. Script includes detailed instructions of defining path to data in comments.
+### Phase Picking
+PhaseNet was employed to pick the arrival or P ans S-waves with code specified in this repository: https://github.com/AI4EPS/PhaseNet
+
+### Data Wrangling
+The script used to wrangle seismograms is titled `preprocess.py`. Script includes detailed instructions of defining path to data in comments.
 
 ### Training and Evaluation
 The script used to train and evaluate experiments is titled `train_eval.py`. Here too, the script includes detailed instructions in comments.
